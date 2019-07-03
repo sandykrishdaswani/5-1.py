@@ -1,3 +1,3 @@
-poi=int(input())
-fac=list(map(int,input().split()))
-print(min(fac),max(fac))
+kz=int(input())
+fs=list(map(int,input().split()))
+print(min(fs),max(fs))
