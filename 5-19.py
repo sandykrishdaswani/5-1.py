@@ -1,3 +1,2 @@
-d=list(map(int,input().split()))
-y=max(d)
-print(y)
+s3,u4=map(int,input().split())
+print(s3+u4)
